@@ -31,20 +31,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxdatii&show_icons=true&theme=radical)
-
-## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxdatii&layout=compact&theme=radical)
-
----
-
-### 🌟 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxdatii/)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-maxdatjob@gmail.com)
-
----
-
 ## 🎓 Education & Certifications
 
 🎓 **Master's Degrees in:**  
@@ -77,6 +63,20 @@ I am fluent in:
 
 I'm a **Sci-Fi Lover**!  
 *Inspired by movies like Arrival, Interstellar, and Inception, I aim to code the future - but first, I have to debug the present.*
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxdatii&show_icons=true&theme=radical)
+
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxdatii&layout=compact&theme=radical)
+
+---
+
+### 🌟 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxdatii/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-maxdatjob@gmail.com)
 
 ---
 
