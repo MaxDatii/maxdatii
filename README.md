@@ -14,6 +14,7 @@
 🦸‍♂️ Over 14 years of experience in sales and customer-facing roles, including direct sales, B2B, B2C, international sales, new business development, and technical support. I am constantly learning and adapting to shape the future of tech.
 
 ---
+<img src="https://raw.githubusercontent.com/maxdatii/maxdatii/output/snake.svg" alt="Snake animation" />
 
 ## 🛠️ My Tech Stack
 
