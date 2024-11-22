@@ -1,12 +1,17 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=maxdatii&label=🤓%20Profile%20Views&color=1ABC9C&style=for-the-badge" alt="maxdatii" />
+</p>
+
 # 👋 Welcome to Max's World of Cloud and Code! 
 
-### 🌌 AWS Certified Solutions Architect | DevOps Engineer | Software Developer
+### ⭐ AWS Certified Solutions Architect | DevOps Engineer | Software Developer
 
 ---
-🚀 AWS Certified Solutions Architect with expertise in DevOps. Experienced in managing the full systems development lifecycle, including design, coding, testing, implementation and support of highly scalable enterprise applications. 
+👨‍🚀 AWS Certified Solutions Architect with expertise in DevOps. Experienced in managing the full systems development lifecycle, including design, coding, testing, implementation and support of highly scalable enterprise applications. 
+
 ---
 
-🤓 Over 14 years of experience in sales and customer-facing roles, including direct sales, B2B, B2C, international sales, new business development, and technical support. I am constantly learning and adapting to shape the future of tech.
+🦸‍♂️ Over 14 years of experience in sales and customer-facing roles, including direct sales, B2B, B2C, international sales, new business development, and technical support. I am constantly learning and adapting to shape the future of tech.
 
 ---
 
@@ -17,24 +22,28 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### **🛠️ Tools & Frameworks**
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-%2317A2B8.svg?style=for-the-badge&logo=argo&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 ### **💻 Coding Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=white)
+
 
 ---
 
 ## 🎓 Education & Certifications
 
-🎓 **Master's Degrees in:**  
+👨‍🎓 **Master's Degrees in:**  
 - Computer Science  
 - Marketing  
 - Economics  
@@ -67,17 +76,42 @@ I'm a **Sci-Fi Lover**!
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxdatii&show_icons=true&theme=radical)
+## 💖 Support Me
 
-## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxdatii&layout=compact&theme=radical)
+<p align="left">
+  <a href="https://placeholder-link.com"> 
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support on Buy Me A Coffee" />
+  </a>
+  <a href="https://placeholder-link.com"> 
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support on Ko-fi" />
+  </a>
+</p>
 
 ---
 
-### 🌟 Let's Connect!
+## 📊 GitHub Statistics
+
+### 🏆 Top Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxdatii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+### ⚡ GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxdatii&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+### 🔥 Streak Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxdatii&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxdatii/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-maxdatjob@gmail.com)
+[![Website](https://img.shields.io/badge/Website-%231ABC9C.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amistarcorp.com/)
 
 ---
 
