@@ -44,6 +44,24 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+### 🏆 Top Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxdatii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+### ⚡ GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxdatii&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+### 🔥 Streak Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxdatii&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
 ## 🎓 Education & Certifications
 
 👨‍🎓 **Master's Degrees in:**  
@@ -88,25 +106,6 @@ I'm a **Sci-Fi Lover**!
   <a href="https://placeholder-link.com"> 
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support on Ko-fi" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-### 🏆 Top Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxdatii&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-### ⚡ GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxdatii&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-### 🔥 Streak Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxdatii&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
