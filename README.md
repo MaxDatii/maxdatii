@@ -118,4 +118,5 @@ I'm a **Sci-Fi Lover**!
 
 ---
 
-🎨 Made with ❤️ and passion by m@x datii.
+🎨 Made with ❤️ and passion by m@x datii. For setup instructions, check out [INSTRUCTIONS.md](INSTRUCTIONS.md).
+
