@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=maxdatii&label=🤓%20Profile%20Views&color=1ABC9C&style=for-the-badge" alt="maxdatii" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=FE428E&width=435&lines=Hi+there!+This+is+Max;Welcome+to+my+World+of+Cloud+and+Code!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=FE428E&width=435&lines=Hi+there!+I'm+Max.;Welcome+to+my+Worldl+of+Cloud+and+Code)](https://git.io/typing-svg)
 
 #### ⭐ AWS Certified Solutions Architect | DevOps Engineer | Software Developer
 
