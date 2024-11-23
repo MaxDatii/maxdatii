@@ -15,7 +15,7 @@ Welcome! Follow these instructions to create your unique GitHub page design, com
 ---
 
 ## **Step 2: Customize Your README.MD File**
-1. Copy the code from my [README.md](README.md) and paste it into your `README.md` file
+1. Copy the code from my [README.md](README.md) and paste into your `README.md` file
    
 2. Replace **`maxdatii/maxdatii`** in the `<img>` URL with your own GitHub username and repository name:
    ```html
