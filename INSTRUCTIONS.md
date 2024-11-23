@@ -31,6 +31,9 @@ Welcome! Follow these instructions to create your unique GitHub page design, com
 
 3. Save the changes to your `README.md` file.
 
+4. Here you can easily customize your Typing SVG with a live preview.
+DEMO SITE: https://readme-typing-svg.demolab.com/demo/
+
 ---
 
 ## **Step 3: Add the Snake Animation**
