@@ -14,22 +14,16 @@ Welcome! Follow these instructions to create your unique GitHub page design, com
 
 ---
 
-## **Step 2: Customize Your README**
-1. Copy the code below and paste it into your `README.md` file:
-   ```html
-   # Hi there! 👋
-
-   Welcome to my GitHub profile! Here's a cool animation for you:
-   <img src="https://raw.githubusercontent.com/maxdatii/maxdatii/output/snake.svg" alt="Snake animation" />
-
-   If you like this design, don't forget to ⭐ this repository and follow me for more cool stuff!
-   ```
+## **Step 2: Customize Your README.MD File**
+1. Copy the code from my [README.md](README.md) and paste it into your `README.md` file
+   
 2. Replace **`maxdatii/maxdatii`** in the `<img>` URL with your own GitHub username and repository name:
    ```html
    <img src="https://raw.githubusercontent.com/YOURGITHUBNAME/YOURREPONAME/output/snake.svg" alt="Snake animation" />
    ```
+3. Replase all social network links and text with your actual infomation. 
 
-3. Save the changes to your `README.md` file.
+4. Save the changes to your `README.md` file.
 
 4. Here you can easily customize your Typing SVG with a live preview.
 DEMO SITE: https://readme-typing-svg.demolab.com/demo/
