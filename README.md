@@ -101,7 +101,7 @@ I'm a **Sci-Fi Lover**!
 ## 💖 Support Me
 
 <p align="left">
-  <a href="buymeacoffee.com/maxdat"> 
+  <a href="https://buymeacoffee.com/maxdat"> 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support on Buy Me A Coffee" />
   </a>
   <a href="https://placeholder-link.com"> 
