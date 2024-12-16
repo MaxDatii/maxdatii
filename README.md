@@ -58,9 +58,8 @@
 </p>
 
 ### 🔥 Streak Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxdatii&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+
+[![GitHub Streak](https://github-readme-streak-stats-seven-zeta.vercel.app?user=maxdatii&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 ## 🎓 Education & Certifications
